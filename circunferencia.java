@@ -8,6 +8,7 @@ public static void main(String[]args) {
 	double radio;
 	radio=sc.nextDouble();
 	System.out.println("La longitud de la circunferencia es: " + 2*Math.PI*radio);
+	System.out.println("El área de la circunferencia es: " + Math.PI*(radio * radio);
 	sc.close();
 }
 }
